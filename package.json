@@ -1,0 +1,29 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "jogo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquefirmino/pong-web.git"
+  },
+  "keywords": [
+    "game",
+    "pong",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquefirmino/pong-web/issues"
+  },
+  "homepage": "https://github.com/henriquefirmino/pong-web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
