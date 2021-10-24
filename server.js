@@ -1,4 +1,4 @@
-var connections = [];
+/*var connections = [];
 var express = require('express');
 var app = express();
 var server = app.listen(3000);
@@ -14,4 +14,4 @@ io.sockets.on('connection', function(socket) {
     socket.on('start', function(data) {
         console.log("Usuarios conectados: " + connections.length);
     });
-});
+});*/
